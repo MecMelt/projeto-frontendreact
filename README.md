@@ -119,3 +119,7 @@ https://user-images.githubusercontent.com/11279432/197185533-14582ca3-9eb0-4a5a-
 3.  Tire print das páginas do seu projeto e cole no readme;
 4.  Abra um novo Pull Request (PR) com a frase **PR para correção**. Caso não saiba como fazê-lo, assista a esse [vídeo](https://www.canva.com/design/DAFY4nS5W2c/t92uFMR61YtmA7bCwj2S1Q/watch).
 5.  Envie o link do seu PR e do surge no [formulário de entrega](https://forms.gle/S9XChPZravP3WdxL6).
+
+### Deploy
+
+labecommerceeltonlimeira.surge.sh
